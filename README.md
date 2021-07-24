@@ -1,1 +1,3 @@
-tugas16_js
+# Tugas MIN dan  MAX
+ 
+![tugas 16](tgs16.png)
